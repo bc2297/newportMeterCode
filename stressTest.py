@@ -1,3 +1,7 @@
+# This code is property of Apple Inc
+# No license is granted unless expressly stated otherwise
+
+
 import Newport2936R
 import time
 import pdb
